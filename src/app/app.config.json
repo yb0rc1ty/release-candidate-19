@@ -6,8 +6,8 @@
   "environment": "prod",
   "base": {
     "left":true,
-    "right":true,
+    "right":false,
     "top":true,
-    "bottom":true
+    "bottom":false
   }
 }
